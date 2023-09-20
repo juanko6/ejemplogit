@@ -5,7 +5,7 @@
 package ejemplogit;
 
 /**
- *
+ * esta clase es un ejemplo jk
  * @author mapper
  */
 public class Ejemplogit {
