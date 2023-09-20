@@ -5,7 +5,7 @@
 package ejemplogit;
 
 /**
- *
+ *clase entidad que representa un Curso
  * @author mapper
  */
 public class curso {
